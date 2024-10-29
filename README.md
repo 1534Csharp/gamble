@@ -121,9 +121,15 @@ namespace WinFormsApp1
 }
 ```
 ## 成果照
+
 初始值
+
 ![image](https://hackmd.io/_uploads/rkpfgMCx1e.png)
+
 投注量 = 0
+
 ![image](https://hackmd.io/_uploads/Sy7l0b0xJl.png)
+
 中獎
+
 ![image](https://hackmd.io/_uploads/HkmKA-RxJx.png)
